@@ -10,8 +10,6 @@ This application ensures that the data entered adheres to specified validation r
 - **Z-Score Outlier Detection**: Utilizes z-score to identify and flag outliers within the dataset.
 - **Rate of Change Validation**: Calculates the percentage change between the new input and the last value in the dataset, validating it against a predefined threshold.
 - **Trendline Calculation**: Computes trendline values and averages for the dataset to assess the data trend.
-- **CORS Support**: Configured to handle cross-origin requests, making it accessible from different origins.
-- **RESTful API**: Exposes a RESTful API for easy integration and usage.
 
 ## Technologies Used
 
